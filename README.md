@@ -144,4 +144,3 @@ GNU General Public License v3.0
 ---
 
 ⭐ If you found this project interesting, consider giving it a Star.
-⭐ اگر این پروژه برایتان جالب بود، لطفاً به آن Star بدهید.
